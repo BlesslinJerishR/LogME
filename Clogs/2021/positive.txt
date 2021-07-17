@@ -1,0 +1,14 @@
+                                 +-+ +-+ +-+ +-+ +-+ +-+ +-+ +-+   +-+ +-+
+                                 |P| |o| |s| |i| |t| |i| |v| |e|   |+| |+|
+                                 +-+ +-+ +-+ +-+ +-+ +-+ +-+ +-+   +-+ +-+
+
+                                                 [ 2021 ]
+                                            [ Mastermindx33 ]
+
+## Positivity ++ Above ##
+
+Date : 2021-06-29
+Day : Tuesday
+Time  : 10 hr 8 min
+Positive: Finished Python Basics
+Charges : Today I completed python basics which i started in June this month, next i am hoping to jump into python projects.

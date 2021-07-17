@@ -1,0 +1,66 @@
+LogME v_1.0 - June 21, 2021
+
+Upgradable
+[]Database Connection > Login - Sign Up
+[]Groups
+[]Image Sharing
+[] Squads
+
+Updated
+[x]IRC chat system
+[x]Sockets
+[x]IRC chat systems
+[x]Join chat
+[x]Random Quotes generator
+[x]Logger
+[x]Log in Time
+[x]Encrypt files username and password
+[x]Set custom mins
+[x]Beep sound
+[x]Alarm and Stop Function Simultaneously
+[x]Clock
+[x]Added Cloud BackUp To Google Drive
+[x]https://console.cloud.google.com/
+[x]Plan
+[x]Convert Script to auto run when opened
+[x]View Logs
+[x]Add task
+[x]Days Alive
+[x]Use password protection
+[x]Bucket List
+[x]Goals
+[x]Options : Thoughts , Positive, Negative
+[x]Encrypt Pass
+[x]Separate the modules
+[x]Bucket list
+[x]Saved in folders and files
+[x]Add Hello Diff languages
+[x]Use Python automation
+[x]Exit option
+[x]Menu Rules
+[x]Menu System
+[x]Goals
+[x]Record System
+[x]Name : Log Me
+[x]Should Log the Date and Time automatically on execution
+[x]Log The Day and No of Times in another .py file
+[x]Code --> Text File
+
+Bugs
+[x]Checkout Loop
+[x]Quotes position error
+[x]sleep waiter check out
+[x]Quotes Fetcher
+[x]Ridculously high quote
+[x]Daily-Quotes API
+[x]Current Time
+[x]Snooze ends
+[x]Time position
+[x]GDrive Title
+[x]check in bug
+[x]Bug Clock
+[x]Beep ETA
+[x]IRC username Bug
+[x]Log Writer Fix
+[x]Root fix
+[x]Check in TIME error

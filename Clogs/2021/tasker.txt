@@ -1,0 +1,217 @@
+                            #    # _______ #       #      # _     # _______ # _______ #
+                         _  # _  #(_______)#       #      #| |    #(_______)#(_______)#
+                        ( \ #( \ #    _    # _____ #  ___ #| |  _ # _  _  _ # _____   #
+                         ) )# ) )#   | |   #(____ |# /___)#| |_/ )#| ||_|| |#|  ___)  #
+                        (_/ #(_/ #   | |   #/ ___ |#|___ |#|  _ ( #| |   | |#| |_____ #
+                            #    #   |_|   #\_____|#(___/ #|_| \_)#|_|   |_|#|_______)#
+                            ##    ##         ##       ##      ##       ##         ##         ##
+
+                                                   [Mastermindx33]
+                                                       [2021]
+
+## Task Below ##
+
+Date : 2021-06-30
+Day : Wednesday
+Task : Beautiful Soup
+Logged in time : 6hrs : 6mins : 21secs
+
+Date : 2021-06-30
+Day : Wednesday
+Task : Duplicates Remover
+Logged in time : 2hrs : 42mins : 55secs
+
+Date : 2021-07-01
+Day : Thursday
+Task : Quotes Fetcher
+Logged in time : 1hrs : 10mins : 4secs
+
+Date : 2021-07-01
+Day : Thursday
+Task : BigSec VC
+Logged in time : 0hrs : 0mins : 14secs
+
+Date : 2021-07-02
+Day : Friday
+Task : Piloting The Ship PyGame PyCrash
+Logged in time : 1hrs : -2mins : 27secs
+
+Date : 2021-07-02
+Day : Friday
+Task : test
+Logged in time : 0hrs : 0mins : 3secs
+
+Date : 2021-07-02
+Day : Friday
+Task : test again
+Logged in time : 0hrs : 0mins : 1secs
+
+Date : 2021-07-02
+Day : Friday
+Task : test again
+Logged in time : 0hrs : 0mins : 3secs
+
+Date : 2021-07-03
+Day : Saturday
+Task : PyCrash Alien Ships
+Logged in time : 1hrs : 10mins : 29secs
+
+Date : 2021-07-03
+Day : Saturday
+Task : Stars PyCrash Alien Invasion
+Logged in time : 1hrs : 22mins : 18secs
+
+Date : 2021-07-04
+Day : Sunday
+Task : Random Stars PyCrash
+Logged in time : 2hrs : 53mins : 2secs
+
+Date : 2021-07-04
+Day : Sunday
+Task : Bat Fixer
+Logged in time : 1hrs : 3mins : 1secs
+
+Date : 2021-07-04
+Day : Sunday
+Task : PyCrash AI Game Over
+Logged in time : 0hrs : 38mins : 54secs
+
+Date : 2021-07-04
+Day : Sunday
+Task : PyCrash AI endgame
+Logged in time : 1hrs : 7mins : 32secs
+
+Date : 2021-07-04
+Day : Sunday
+Task : PyCrash AI Scoring
+Logged in time : 0hrs : 14mins : 10secs
+
+Date : 2021-07-06
+Day : Tuesday
+Task : PyAi start button bug
+Logged in time : 1hrs : 21mins : 13secs
+
+Date : 2021-07-06
+Day : Tuesday
+Task : IRC chat system
+Logged in time : 2hrs : -13mins : 0secs
+
+Date : 2021-07-06
+Day : Tuesday
+Task : IRC socket
+Logged in time : 1hrs : 43mins : -6secs
+
+Date : 2021-07-07
+Day : Wednesday
+Task : IRC OpenVpn
+Logged in time : 1hrs : 2mins : -24secs
+
+Date : 2021-07-07
+Day : Wednesday
+Task : IRC chat
+Logged in time : 1hrs : -6mins : 14secs
+
+Date : 2021-07-08
+Day : Thursday
+Task : IRC Chat Window
+Logged in time : 2hrs : 23mins : 27secs
+
+Date : 2021-07-08
+Day : Thursday
+Task : IRC Bugs
+Logged in time : 1hrs : 17mins : 27secs
+
+Date : 2021-07-08
+Day : Thursday
+Task : Small Bugs
+Logged in time : 0hrs : 8mins : 19secs
+
+Date : 2021-07-08
+Day : Thursday
+Task : Request Raj San
+0.07473029673099518 hrs
+
+Date : 2021-07-08
+Day : Thursday
+Task : Request Raj San
+0.11438785745037927 hrs
+
+Date : 2021-07-09
+Day : Friday
+Task : WebMonitor
+1.5005261852343876 hrs
+
+Date : 2021-07-09
+Day : Friday
+Task : Gbeep
+0.4858947273757723 hrs
+
+Date : 2021-07-09
+Day : Friday
+Task : SherKey
+0.48137724426057604 hrs
+
+Date : 2021-07-09
+Day : Friday
+Task : SherKey Menu
+0.8488715371820662 hrs
+
+Date : 2021-07-09
+Day : Friday
+Task : 1001 Laws Scraper
+0.541719457772043 hrs
+
+Date : 2021-07-10
+Day : Saturday
+Task : PyCrash AI Levels
+1.5366404957241482 hrs
+
+Date : 2021-07-10
+Day : Saturday
+Task : 1001 Book Pdf
+11.767520094977485 hrs
+
+Date : 2021-07-10
+Day : Saturday
+Task : Trinity Meet
+0.0028561335802078248 hrs
+
+Date : 2021-07-11
+Day : Sunday
+Task : Github Check
+0.6557598461045159 hrs
+
+Date : 2021-07-11
+Day : Sunday
+Task : WireFrame Tutorial
+2.146063278582361 hrs
+
+Date : 2021-07-11
+Day : Sunday
+Task : PyCrash AI Scoring
+0.3938054300016827 hrs
+
+Date : 2021-07-13
+Day : Tuesday
+Task : PyCrash AI Endgame
+0.9455532326963213 hrs
+
+Date : 2021-07-13
+Day : Tuesday
+Task : PyCrash AI GitHub -p
+0.6999890934096442 hrs
+
+Date : 2021-07-15
+Day : Thursday
+Task : Django
+2.5063691089550653 hrs
+
+Date : 2021-07-15
+Day : Thursday
+Task : Django Start
+1.4169317284557554 hrs
+
+Date : 2021-07-17
+Day : Saturday
+Task : pr0tagonists icons
+2.252353022694588 hrs
