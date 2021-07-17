@@ -36,5 +36,21 @@ Personal Clogger - CLI &amp; IRC chats with AES 256 Encryption
   >> Calendar
   >>
   >> - Socket
+  >> 
   >> Server
+  >> 
   >> Clients
+  
+- Login Credentials
+
+$- Windows 10
+> logME.bat or ctrl + plus
+
+$- Linux
+> python3 magic.py
+
+- username : Mastermindx33
+- password : posterity
+
+$- Root user Login
+- username : ./
