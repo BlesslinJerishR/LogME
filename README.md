@@ -1,6 +1,6 @@
 # LogME
 Personal Clogger - CLI &amp; IRC chats with AES 256 Encryption
-![LogME_Demo](https://github.com/Mastermindx33/LogME/blob/master/Demo/DevLogME.png?raw=true)
+![Demo](https://github.com/Mastermindx33/LogME/blob/master/Demo/DevLogME.png?raw=true)
 
  > - Log in
   >> Logs File
