@@ -1,5 +1,5 @@
 # LogME
-Personal Clogger - CLI &amp; IRC chats with AES 256 Encryption
+Personal Clogger - CLI &amp; IRC chats with AES 256 burn on exit Encryption
 
 ![Demo](https://github.com/Mastermindx33/LogME/blob/main/Demo/DevSign.png?raw=true)
 
